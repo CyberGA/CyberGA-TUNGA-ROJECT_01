@@ -18,3 +18,10 @@ function multiplication(arg1, arg2) {
 }
 const result2 = multiplication(4, 8);
 console.log(result2);
+
+// division
+function divide(arg1, arg2) {
+  return arg1 / arg2;
+}
+const result3 = divide(4, 8);
+console.log(result3);
